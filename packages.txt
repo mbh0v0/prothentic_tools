@@ -1,6 +1,0 @@
-openpyxl
-pandas
-paramiko
-Pillow
-streamlit
-xlrd
